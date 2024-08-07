@@ -2,6 +2,8 @@
 
 Dit project bevat een RSS-feed ticker die regelmatig wordt bijgewerkt met gegevens uit een RSS-feed en extra content toont. De ticker toont nieuwsitems in een doorlopende tekststroom met visuele scheidingsteken tussen de items.
 
+![afbeelding](https://github.com/user-attachments/assets/e27cf79b-30bc-41f4-8841-df1eac155630)
+
 # Overzicht
 
 ## Deze applicatie bestaat uit drie onderdelen:
