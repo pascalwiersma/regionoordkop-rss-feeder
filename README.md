@@ -17,6 +17,7 @@ Dit project bevat een RSS-feed ticker die regelmatig wordt bijgewerkt met gegeve
     fetchAndUpdateTicker: Deze functie haalt de RSS-feed op, verwerkt de items, voegt extra content toe op basis van de ingestelde configuratie, en update de ticker op de pagina.
     setInterval: Zorgt ervoor dat de ticker elke 30 minuten opnieuw wordt bijgewerkt.
     CONFIG: Bevat de configuratie-instellingen zoals de URL van de feed, aantal te tonen artikelen, extra content, en de interval voor het ophalen van de feed.
+    MESSAGES: Per lijn kan je een tekst toevoegen. Dit zal dan apart van elkaar worden weergegeven.
 
 ## Installatie
 
